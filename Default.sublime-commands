@@ -1,0 +1,10 @@
+[
+	{
+		"caption": "Search Garry's Mod wiki Categories",
+		"command": "search_gmod_wiki_categories"
+	},
+	{
+		"caption": "Search Garry's Mod wiki",
+		"command": "search_gmod_wiki"
+	}
+]

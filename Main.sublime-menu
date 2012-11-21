@@ -1,0 +1,15 @@
+[
+	{
+		"caption": "Tools",
+		"id": "tools",
+		"children":
+		[
+			{"caption": "-"},
+			{
+				"caption": "Search the Garry's Mod wiki",
+				"id": "SearchGmod",
+				"command": "search_gmod_wiki"
+			}
+		]
+	}
+]
