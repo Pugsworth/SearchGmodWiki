@@ -1,0 +1,10 @@
+{
+	"scheme_version": "1.2",
+	"repositories": [
+		"https://github.com/Pugsworth/SearchGmodWiki"
+	],
+	"package_name_map":
+	{
+		"SearchGmodWiki": "Search Garry's Mod Wiki"
+	}
+}
