@@ -14,7 +14,8 @@ class SearchGmodWikiCategories(sublime_plugin.WindowCommand):
 		self.window.show_quick_panel(self.li, self.done);
 
 	def done(self, index):
-		webbrowser.open_new_tab("http://wiki.garrysmod.com/page/" + self.li[index][0]);
+		if not index === -1:
+			webbrowser.open_new_tab("http://wiki.garrysmod.com/page/" + self.li[index][0]);
 
 class SearchGmodWikiCommand(sublime_plugin.WindowCommand):
 	def run(self):
