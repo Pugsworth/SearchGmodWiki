@@ -1,0 +1,9 @@
+{
+	"mirrorwiki": false 
+	/*
+		Setting to change which site to use, gmodwiki.net is a mirror clone with a much better layout
+
+		true = gmodwiki.net
+		false = wiki.garrysmod.com
+	*/
+}
